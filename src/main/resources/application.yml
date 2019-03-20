@@ -1,0 +1,5 @@
+micronaut:
+    function:
+        name: micronaut-aws-authentication-function
+jackson:
+    module-scan: false
